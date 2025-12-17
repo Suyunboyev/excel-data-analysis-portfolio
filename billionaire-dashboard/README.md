@@ -27,7 +27,6 @@ This project presents an interactive Excel dashboard analyzing global billionair
 
 ## Files
 - `billionaire_dashboard.xlsx` – Interactive Excel dashboard
-- `dataset.xlsx` – Raw dataset
 - `dashboard.png` – Dashboard preview
 
 ## Tools
