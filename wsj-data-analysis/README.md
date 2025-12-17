@@ -26,9 +26,10 @@ This project focuses on analyzing Wall Street Journal (WSJ) data using Microsoft
 - Visualizations simplify complex data interpretation
 
 ## Files
-- `wsj_data.xlsx` – Raw and cleaned data
-- `analysis.xlsx` – Analytical version (if applicable)
-- `charts.jpg` – Visualization preview
+- `WSJ Data (2).xlsx` – Raw and cleaned data
+- `chart1.jpg` – Visualization preview
+- `chart2.jpg` – Visualization preview
+- `chart2.jpg` – Visualization preview
 
 ## Tools
 - Microsoft Excel
