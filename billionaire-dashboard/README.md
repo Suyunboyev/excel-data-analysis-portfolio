@@ -26,7 +26,7 @@ This project presents an interactive Excel dashboard analyzing global billionair
 - Significant wealth concentration is visible across industries
 
 ## Files
-- `billionaire_dashboard.xlsx` – Interactive Excel dashboard
+- `Billionaires Dashboard.xlsx` – Interactive Excel dashboard
 - `dashboard.png` – Dashboard preview
 
 ## Tools
