@@ -17,6 +17,5 @@ This project focuses on transforming raw sales data into an interactive and acti
 5.  **Monthly Trend Analysis:** Visualizing seasonal peaks and sales dips.
 
 ## Project Structure
-* `Sales_Performance_Analysis.xlsx` - The main interactive Excel file.
-* `Screenshots/` - High-resolution images of the dashboard.
-* `Documentation/` - A brief summary of findings and business recommendations.
+* `Bike Sales Dashboard.xlsx` - The main interactive Excel file.
+* `sales-dashboard.jpg` - High-resolution images of the dashboard.
